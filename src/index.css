@@ -1,0 +1,17 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+:root {
+    --principal:#000000;
+    --marrom-claro:#D1884F;
+    --azul-escuro:#008AAA;
+    --azul-claro:#3BBADB;
+  
+    --fonte: 'Inter', 'sans-serif';
+  
+  }
