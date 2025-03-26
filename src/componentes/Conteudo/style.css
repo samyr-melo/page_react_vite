@@ -6,7 +6,7 @@
 }
 
 .conteudo__texto{
-    padding: 0% 4%;
+    padding: 0% 4% ;
     
 }
 
@@ -15,7 +15,8 @@
     position: relative;
     width: 60%; /* ajuste conforme necessário */
     height:50%;
-    margin:0 90px;
+    margin:0 90px 200px 90px; 
+
    
   }
   
