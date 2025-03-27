@@ -1,6 +1,6 @@
 @media (max-width:600px) {
     .config__geral{
-        margin: 10% 10%;
+        margin: 10% 0%;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -10,7 +10,7 @@
         display: flex;
         justify-content: space-between;
         align-items: center ; 
-        margin: 2% 6%;  
+        margin: 2% 0%;  
     }
 
 div .img__logo {
