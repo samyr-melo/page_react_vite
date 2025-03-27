@@ -1,4 +1,4 @@
-@media (max-width:1000px) {
+@media (max-width:600px) {
     .config__geral{
         margin: 10% 0;
         display: flex;
@@ -14,7 +14,7 @@
     }
 
 div .img__logo {
-    width: 0px;
+    display: none;
 }
 
 .cabecalho__navbar {
