@@ -1,4 +1,4 @@
-import Header from './componentes/Header'
+import Header from './componentes/Header/Header'
 import Conteudo from './componentes/Conteudo/Conteudo'
 import './App.css'
 
