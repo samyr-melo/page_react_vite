@@ -3,6 +3,7 @@ import Phone from './assets/Phone.svg'
 import User from './assets/User.svg'
 import Vector from './assets/Vector.svg'
 import './style.css'
+import './responsive.css'
 
 export default function Header() {
     return (

@@ -2,6 +2,7 @@ import Imagem2 from './assets/Rectangle7.png'
 import Imagem1 from './assets/Rectangle6.png'
 import Imagem3 from './assets/Rectangle8.png'
 import './style.css'
+import './responsive.css'
 
 
 const Conteudo = () => {

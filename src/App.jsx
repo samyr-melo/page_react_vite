@@ -1,6 +1,7 @@
-import Header from './componentes/Header/Index'
+import Header from './componentes/Header'
 import Conteudo from './componentes/Conteudo/Conteudo'
 import './App.css'
+
 
 function App() {
   return (
