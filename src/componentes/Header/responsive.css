@@ -1,6 +1,6 @@
 @media (max-width:1000px) {
     .config__geral{
-        margin: 10% 0;
+        margin: 10% 0px;
         display: flex;
         align-items: center;
         justify-content: center;
