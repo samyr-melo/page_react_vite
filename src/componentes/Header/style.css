@@ -31,16 +31,15 @@ div ul li a {
     transition: transform 0.9s, box-shadow 0.3s;
 }
 div ul li a:hover{
-    transform: scale(1.1); /* Aumenta 5% */
+    transform: scale(1.1); 
 }
 
 div ul li img{
-    
     transition: transform 0.7s, box-shadow 0.3s; 
 }
 
 div ul li img:hover{
-    transform: scale(1.1); /* Aumenta 5% */
+    transform: scale(1.1); 
 }
 
 .link {
