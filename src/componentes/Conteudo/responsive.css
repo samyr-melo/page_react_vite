@@ -1,6 +1,6 @@
 @media (max-width:1000px) {
     .conteudo__site { 
-      margin: 20px 0;
+      margin: 10%;
       justify-content: center;
       padding-bottom: 10%;
       flex-direction: column-reverse;
