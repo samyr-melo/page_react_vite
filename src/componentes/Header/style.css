@@ -19,18 +19,33 @@
     gap: 6em;
     padding: 0 7.7em;   
 }
+div ul li{
+    display: flex;
+    align-items: center;
+    gap: 0.8em;
+    
+}
 
 div ul li a {
     text-decoration: none;
     color: var(--font-color-1);
     font-size: 1.5em;
     font-family: var(--fonte) ;
+    transition: transform 0.9s, box-shadow 0.3s;
 }
-div ul li{
-    display: flex;
-    align-items: center;
-    gap: 0.8em;
+div ul li a:hover{
+    transform: scale(1.1); /* Aumenta 5% */
 }
+
+div ul li img{
+    
+    transition: transform 0.7s, box-shadow 0.3s; 
+}
+
+div ul li img:hover{
+    transform: scale(1.1); /* Aumenta 5% */
+}
+
 .link {
     text-decoration: none;
     color: var(--font-color-2);
