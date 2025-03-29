@@ -1,12 +1,9 @@
-.config__geral{
-    width: 100%;
 
-}
 .cabecalho {
     display: flex;
     justify-content: space-between;
     align-items: center ; 
-    margin: 0 2%;  
+    margin: 0%;  
 }
 
 
